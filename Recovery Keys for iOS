@@ -1,0 +1,21 @@
+Resetting your password can erase your account data (such as bookmarks). To prevent this, create a recovery key before having to reset your password. 
+You can use your recovery key to sign in to your Firefox Account if you forget your password.
+
+=Creating a Recovery Key in iOS=
+Open Firefox on your iOS device. On your Firefox Home page, find the navigation bar at the bottom of your screen and tap the menu icon on your navigation bar.
+
+[[Image:Menu Icon in Navigation Bar]] 
+
+Tapping the menu icon will create a pop-up menu. 
+On this pop-up menu, tap the email associated with your Firefox Account next to the user icon to open the Firefox Account menu.
+
+On the Firefox Account menu, tap "Manage Account & Devices" at the top of the menu to open the Account Management page.
+
+[[Image:Firefox Account Menu]] 
+
+On the Account Management page, scroll down to the Security section and find the Recovery Key subsection. Tap "Create" to begin creating your recovery key.
+
+[[Image:Create Recovery Key]] 
+
+Enter your password and tap "Continue" to receive your recovery key. You should receive an email confirming you have created a recovery key. 
+Be sure to save your recovery key in a safe place that you can easily find later.
